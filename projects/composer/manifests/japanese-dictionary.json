@@ -2,11 +2,11 @@
   "schema_version": 1,
   "id": "composer-japanese-dictionary",
   "version": "1.0.0",
-  "tag": "japanese-dictionary-v1.0.0",
+  "tag": "composer-japanese-dictionary-v1.0.0",
   "archive": "zip",
   "bytes": 11534023,
   "sha256": "1f63ad5e98e45a2bf3be0c70cdf70ac28d492f7d83240d9c06701106fc990117",
-  "download_url": "https://github.com/BDCrusher/composer-downloads/releases/download/japanese-dictionary-v1.0.0/composer-japanese-dictionary-v1.0.0.zip",
+  "download_url": "https://github.com/BDCrusher/project-downloads/releases/download/composer-japanese-dictionary-v1.0.0/composer-japanese-dictionary-v1.0.0.zip",
   "install_directory": "Composer-Data/tools/language/japanese",
   "source": {
     "package": "kuromoji",
